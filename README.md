@@ -1,8 +1,7 @@
-# kodluyoruz egiğimi kapsamında ilk repo
+# kodluyoruz eğitimi kapsamında ilk repo
 
 # kodluyoruzilkrepo 
 
-** Kodluyoruz Eğitimi kapsamında açtığım ilk repo **
 
 [Google Gitmek için Tiklayınız](https://google.com)
 
