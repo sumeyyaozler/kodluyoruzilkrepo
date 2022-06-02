@@ -1,12 +1,21 @@
 # kodluyoruz egiğimi kapsamında ilk repo
 
+# kodluyoruzilkrepo 
 
+** Kodluyoruz Eğitimi kapsamında açtığım ilk repo **
 
+[Google Gitmek için Tiklayınız](https://google.com)
 
+![Lorem Picsum Gorsel](https://picsum.photos/200/300)
+***
 
-[lorem ipsum](http://google.com)
-
+'''python
+print("hello world")
+'''
 
 [kodluyoruzilkrepo](https://github.com/sumeyyaozler/kodluyoruzilkrepo.git)
 
 * list item 1 [link bilgisi](https://kodluyoruz.org)
+
+
+* list item 1 [link bilgisi](www.patika.dev)
